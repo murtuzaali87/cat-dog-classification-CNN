@@ -62,7 +62,7 @@ The custom CNN consists of:
 
 The Streamlit application allows users to upload an image and receive a Cat or Dog classification prediction.
 
-**Live Application:** [Cat vs Dog Classification]((https://cat-dog-classification-cnn.streamlit.app/))
+**Live Application:** [Cat vs Dog Classification](https://cat-dog-classification-cnn.streamlit.app/)
 
 ## Project Structure
 
